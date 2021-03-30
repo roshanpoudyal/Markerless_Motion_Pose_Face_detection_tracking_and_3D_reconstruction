@@ -22,6 +22,8 @@
 * [Middlebury Computer Vision Pages](http://vision.middlebury.edu/) is a repository for computer vision evaluations and datasets. See the [Middlebury Stereo Vision Page](http://vision.middlebury.edu/stereo/) and [Middlebury Multi-View Stereo Vision Page](http://vision.middlebury.edu/mview/) for more relevant info for this project.
 * [Browse here for interesting papers](https://github.com/roshanpoudyal/research_papers_materialized).
 
+--------------
+
 ### Other tutorials and links :
 * Interesting tutorial on [Head Pose Estimation using OpenCV and Dlib
 ](https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/).
@@ -32,27 +34,40 @@
 * Beginners guide to [computer vision](https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720).
 * A [curated list of computer vision resources](https://github.com/jbhuang0604/awesome-computer-vision).
 
-### Books and online courses:
+--------------
+
+### Books and online courses on Visual Computing:
 1. [**Introduction to Deep Learning**](http://introtodeeplearning.com/) from MIT. The [**lecture series** is also available as youtube playlist](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI).
-2. Great lecture on understanding of Computer Vision from very foundation : [**First Principles of Computer Vision by Shree Nayar, Professor of Computer Science at Columbia Engineering**](https://fpcv.cs.columbia.edu/). The [**Lecture Series is also available as a youtube channel**](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw).
-3. Book : [Github repository](https://github.com/mml-book/mml-book.github.io) for the book [**Mathematics for Machine Learning**](https://mml-book.github.io/book/mml-book.pdf).
-4. [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020) by  Volodymyr Kuleshov](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83).
-5. A beautiful book with detail understanding of 3D reconstruction from basic to advanced - [Multiple View Geometry in Computer Vision](http://www.robots.ox.ac.uk/~vgg/hzbook/).
-6. **A MUST HAVE COURSE ON MATHEMATICAL FOUNDATION FOR VISUAL COMPUTING** [Computational Science and Engineering I](https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/index.htm), its video lectures collection are [here](https://www.youtube.com/watch?v=CgfkEUOFAj0&list=PLF706B428FB7BD52C). _**This course provides a review of linear algebra, including applications to networks, structures, and estimation, Lagrange multipliers. Also covered are: differential equations of equilibrium; Laplace's equation and potential flow; boundary-value problems; minimum principles and calculus of variations; Fourier series; discrete Fourier transform; convolution; and applications.**_
-7. [Online Course for Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv).
-8. [Computer Vision: Algorithms and Applications has a dedicated chapter on **3D reconstruction** and other interesting applications](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf). [Book is from this author](http://szeliski.org/Book/).
-9. [Book- Computer Vision: From 3D Reconstruction to Visual Recognition](https://g.co/kgs/9du8m1).
-10. Here is a course in edx from TUM Munich on [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) which is adopted from [their own university MOOC course](https://www.tum.de/en/about-tum/news/press-releases/detail/article/31494/). It gives concepts on 3D reconstruction as well.
-11. Big bunch of and series of [computer vision teachings from Stanford University vision lab](http://vision.stanford.edu/teaching.html). For example:
+1. Great lecture on understanding of Computer Vision from very foundation : [**First Principles of Computer Vision by Shree Nayar, Professor of Computer Science at Columbia Engineering**](https://fpcv.cs.columbia.edu/). The [**Lecture Series is also available as a youtube channel**](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw).
+1. [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020) by  Volodymyr Kuleshov](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83).
+1. A beautiful book with detail understanding of 3D reconstruction from basic to advanced - [Multiple View Geometry in Computer Vision](http://www.robots.ox.ac.uk/~vgg/hzbook/).
+1. **A MUST HAVE COURSE ON MATHEMATICAL FOUNDATION FOR VISUAL COMPUTING** [Computational Science and Engineering I](https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/index.htm), its video lectures collection are [here](https://www.youtube.com/watch?v=CgfkEUOFAj0&list=PLF706B428FB7BD52C). _**This course provides a review of linear algebra, including applications to networks, structures, and estimation, Lagrange multipliers. Also covered are: differential equations of equilibrium; Laplace's equation and potential flow; boundary-value problems; minimum principles and calculus of variations; Fourier series; discrete Fourier transform; convolution; and applications.**_
+1. [Online Course for Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv).
+1. [Computer Vision: Algorithms and Applications has a dedicated chapter on **3D reconstruction** and other interesting applications](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf). [Book is from this author](http://szeliski.org/Book/).
+1. [Book- Computer Vision: From 3D Reconstruction to Visual Recognition](https://g.co/kgs/9du8m1).
+1. Here is a course in edx from TUM Munich on [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) which is adopted from [their own university MOOC course](https://www.tum.de/en/about-tum/news/press-releases/detail/article/31494/). It gives concepts on 3D reconstruction as well.
+1. Big bunch of and series of [computer vision teachings from Stanford University vision lab](http://vision.stanford.edu/teaching.html). For example:
     - [CS131 Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1819/index.html).
     - [CS231A: Computer Vision, From 3D Reconstruction to Recognition](http://web.stanford.edu/class/cs231a/).
-12. [Lecture videos on Computer Vision For Visual Effects](https://cvfxbook.com/video-lectures/) by Richard J. Radke.
+1. [Lecture videos on Computer Vision For Visual Effects](https://cvfxbook.com/video-lectures/) by Richard J. Radke.
     - Here is the [youtube playlist](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a) on the same.
     - Associated is [this book on Computer Vision for Visual Effects](https://cvfxbook.com/about/). The book describes classical computer vision algorithms used on a regular basis in Hollywood (such as blue-screen matting, structure from motion, optical flow, and feature tracking) and exciting recent developments that form the basis for future effects (such as natural image matting, multi-image compositing, image retargeting, and view synthesis).
+
+### Books and resources on Mathematics for Visual Computing (AI/ML/CV/CG):
+1. Book : [Github repository](https://github.com/mml-book/mml-book.github.io) for the book [**Mathematics for Machine Learning**](https://mml-book.github.io/book/mml-book.pdf).
+1. This book shows why Calculus should be easy and not difficult - [Calculus Made Easy](https://calculusmadeeasy.org/).
+1. Learn [essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) from [3Blue1Brown youtube channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw).
+    - Also learn [essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
+1. Learn [linear algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) and [Computational science and engineering](https://www.youtube.com/playlist?list=PLF706B428FB7BD52C) from [Gilbert strang](http://www-math.mit.edu/~gs/).
+    - Follow his other lectures and books from [his website](http://www-math.mit.edu/~gs/).
+
+--------------
 
 ### On Computer Graphics:
 * You sure will have to know much about computer Graphics too along with Computer Vision.
 * Also complete with TODO mentioned on [this OpenGL playground of yours](https://github.com/roshanpoudyal/3D_interactive_graphics_rendering_engine).
+
+--------------
 
 ### Noteworthy open source libraries for visual computing:
 1. [CGAL](https://www.cgal.org/) is a software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library. CGAL is used in various areas needing geometric computation, such as geographic information systems, computer aided design, molecular biology, medical imaging, computer graphics, and robotics.
@@ -64,6 +79,8 @@
     - [The Geospatial Data Abstraction Library (GDAL)](https://www.gdal.org/) is a computer software library for reading and writing raster and vector geospatial data formats. Although it is used for GIS data I have put it here because it can come under visual computing with raster GIS data.
     - Another, library which uses GDAL is [Orfeo Toolbox](https://www.orfeo-toolbox.org/) which also can fall under visual computing because it works on using maching learning and computer vision with GIS raster images.
 
+--------------
+
 ### Get started with:
 * Get started with this opencv tutorial series on [Camera Calibration and 3D Reconstruction](https://docs.opencv.org/3.4.6/d9/db7/tutorial_py_table_of_contents_calib3d.html).
 * Now you can as well do this tutorial on [Head Pose Estimation using OpenCV and Dlib](https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/).
@@ -71,10 +88,14 @@
 * This tutorial as well on [Real Time pose estimation of a textured object
 ](https://docs.opencv.org/3.4.2/dc/d2c/tutorial_real_time_pose.html).
 
+--------------
+
 ### Future direction:
   * 3D pose estimation
   * 3D motion reconstruction
   * Mapping human motion to 3D models or characters
-  
+
+--------------
+
 ### Final Goal:
  * Reach a level near or far to [Real time face reconstruction as good as this](https://cgl.ethz.ch/Downloads/Publications/PaperVideos/2012/Bic12-Siggraph2012-PhysicalFaceCloning.mp4). The link to main page of this paper is [here](https://cgl.ethz.ch/publications/papers/paperBic12.php).
