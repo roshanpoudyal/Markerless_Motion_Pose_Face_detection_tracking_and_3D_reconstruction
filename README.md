@@ -83,6 +83,7 @@
 
 ### Get started with:
 * [OpenCV Face detection C++](https://www.geeksforgeeks.org/opencv-c-program-face-detection/).
+* [Mastering opencv with practical projects](https://www.cs.ccu.edu.tw/~damon/photo/,OpenCV/,Mastering_OpenCV.pdf).
 * Get started with this opencv tutorial series on [Camera Calibration and 3D Reconstruction](https://docs.opencv.org/3.4.6/d9/db7/tutorial_py_table_of_contents_calib3d.html).
 * Now you can as well do this tutorial on [Head Pose Estimation using OpenCV and Dlib](https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/).
 * Start with this tutorial on [3D scene reconstruction from these set of OpenCV Tutorials called Structure From Motion](https://docs.opencv.org/3.4/de/d7c/tutorial_table_of_content_sfm.html). Make sure you do the tutorials in sequence and make sure the version of this OpenCV docs matches with the version of OpenCV version you are using.
