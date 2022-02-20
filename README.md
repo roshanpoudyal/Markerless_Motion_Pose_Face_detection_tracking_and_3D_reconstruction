@@ -101,3 +101,4 @@
 
 ### Final Goal:
  * Reach a level near or far to [Real time face reconstruction as good as this](https://cgl.ethz.ch/Downloads/Publications/PaperVideos/2012/Bic12-Siggraph2012-PhysicalFaceCloning.mp4). The link to main page of this paper is [here](https://cgl.ethz.ch/publications/papers/paperBic12.php).
+ * Also this exercise can be used to implement VFX like this using OpenCV - [Realtime Hand](https://github.com/ogoguel/realtimehand).
