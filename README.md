@@ -55,7 +55,6 @@
 
 ### Books and resources on Mathematics for Visual Computing (AI/ML/CV/CG):
 1. Book : [Github repository](https://github.com/mml-book/mml-book.github.io) for the book [**Mathematics for Machine Learning**](https://mml-book.github.io/book/mml-book.pdf).
-1. This book shows why Calculus should be easy and not difficult - [Calculus Made Easy](https://calculusmadeeasy.org/).
 1. Learn [essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) from [3Blue1Brown youtube channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw).
     - Also learn [essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr).
 1. Learn [linear algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) and [Computational science and engineering](https://www.youtube.com/playlist?list=PLF706B428FB7BD52C) from [Gilbert strang](http://www-math.mit.edu/~gs/).
