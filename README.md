@@ -2,37 +2,38 @@
 ### Markerless Motion and/or Pose and/or Face detection and/or tracking and  it's 3D reconstruction (in real time)
 
 ### Inspiration:
- * I get very interested when camera captured images and videos (or live videos) turn into 3D virtual characters and their motion into its animation. I want to pursue this feeling.
- * [What is Visual Computing?](https://en.wikipedia.org/wiki/Visual_computing).
- * [What is 3D reconstruction?](https://en.wikipedia.org/wiki/3D_reconstruction). This link gives a basic foundational idea on 3D reconstruction from images. **Using 3D reconstruction one can determine any object’s 3D profile, as well as knowing the 3D coordinate of any point on the profile.** from section **Motivation and applications** from this link is euphoric. Plus the methods for 3D reconstruction and in detail explanation of **Binocular stereo vision** and how it works is beautiful. There are other sources and external link.
- * [What is Structure From Motion and its application in 3D reconstruction](https://en.wikipedia.org/wiki/Structure_from_motion).
- * [Real time face reconstruction in 3D](https://cgl.ethz.ch/publications/papers/paperBic12.php).
- * [Videos collection from ETH Zurich Computer graphics lab](https://www.youtube.com/channel/UCaooTmnNbpkDvR8DdIUzgYA).
- * [ETH Zurich Computer Graphics webiste with links to its research and published papers](https://graphics.ethz.ch/research/).
- * [High-Resolution 3D Reconstruction - Humboldt-Universität zu Berlin](https://www.informatik.hu-berlin.de/de/forschung/gebiete/viscom/res/highres_3dreconstruction).
- * [CS231A: Computer Vision, From 3D Reconstruction to Recognition Course notes](http://web.stanford.edu/class/cs231a/course_notes.html). [Online Course for the same - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv).
- * Here is one such [excitement](https://youtu.be/MMa2oT1wMIs) and here is the direct link to the page containing the [paper](https://www.disneyresearch.com/publication/realtimeperformancecapture/) which is also present in [tum research lab](http://niessnerlab.org/projects/zollhoefer2018facestar.html).
- * Here is [disney research hub youtube channel](https://www.youtube.com/user/DisneyResearchHub/videos) and [disney research website](https://www.disneyresearch.com/research/).
- * Here is another such excitement on [Avatar Digitization From a Single Image For Real-Time Rendering](https://youtu.be/dERjpAaoNjk).
- * From University of Bonn on [3D Reconstruction of Human Motion from Video](http://cg.cs.uni-bonn.de/en/publications/paper-details/yasin-2013b/).
- * Again from University of Bonn on [3D Pose Estimation from a Single Monocular Image
+ 1. I get very interested when camera captured images and videos (or live videos) turn into 3D virtual characters and their motion into its animation. I want to pursue this feeling.
+ 1. [What is Visual Computing?](https://en.wikipedia.org/wiki/Visual_computing).
+ 1. [What is 3D reconstruction?](https://en.wikipedia.org/wiki/3D_reconstruction). This link gives a basic foundational idea on 3D reconstruction from images. **Using 3D reconstruction one can determine any object’s 3D profile, as well as knowing the 3D coordinate of any point on the profile.** from section **Motivation and applications** from this link is euphoric. Plus the methods for 3D reconstruction and in detail explanation of **Binocular stereo vision** and how it works is beautiful. There are other sources and external link.
+ 1. [What is Structure From Motion and its application in 3D reconstruction](https://en.wikipedia.org/wiki/Structure_from_motion).
+ 1. [Real time face reconstruction in 3D](https://cgl.ethz.ch/publications/papers/paperBic12.php).
+ 1. [Videos collection from ETH Zurich Computer graphics lab](https://www.youtube.com/channel/UCaooTmnNbpkDvR8DdIUzgYA).
+ 1. [ETH Zurich Computer Graphics webiste with links to its research and published papers](https://graphics.ethz.ch/research/).
+ 1. [High-Resolution 3D Reconstruction - Humboldt-Universität zu Berlin](https://www.informatik.hu-berlin.de/de/forschung/gebiete/viscom/res/highres_3dreconstruction).
+ 1. [CS231A: Computer Vision, From 3D Reconstruction to Recognition Course notes](http://web.stanford.edu/class/cs231a/course_notes.html). [Online Course for the same - Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv).
+ 1. Here is one such [excitement](https://youtu.be/MMa2oT1wMIs) and here is the direct link to the page containing the [paper](https://www.disneyresearch.com/publication/realtimeperformancecapture/) which is also present in [tum research lab](http://niessnerlab.org/projects/zollhoefer2018facestar.html).
+1. Here is [disney research hub youtube channel](https://www.youtube.com/user/DisneyResearchHub/videos) and [disney research website](https://www.disneyresearch.com/research/).
+     1. Papers from [disney research](https://www.disneyresearch.com/research/)
+         1. [Infinite 3D Landmarks: Improving Continuous 2D Facial Landmark Detection](https://studios.disneyresearch.com/2024/06/07/infinite-3d-landmarks-improving-continuous-2d-facial-landmark-detection/) 
+1. Here is another such excitement on [Avatar Digitization From a Single Image For Real-Time Rendering](https://youtu.be/dERjpAaoNjk).
+    1. From University of Bonn on [3D Reconstruction of Human Motion from Video](http://cg.cs.uni-bonn.de/en/publications/paper-details/yasin-2013b/).
+    1. Again from University of Bonn on [3D Pose Estimation from a Single Monocular Image
 ](http://cg.cs.uni-bonn.de/en/publications/paper-details/yasin2015/).
-* [3D reconstruction from multiple images wiki information and other external links here](https://en.wikipedia.org/wiki/3D_reconstruction_from_multiple_images).
-* [The Multi-View Environment, MVE](https://www.gcc.tu-darmstadt.de/home/proj/mve/), is an implementation of a complete end-to-end pipeline for image-based geometry reconstruction. It features Structure-from-Motion, Multi-View Stereo and Surface Reconstruction. MVE is written in C++ and comes with a set of efficient, cross-platform and easy-to-use libraries. The code runs on Linux, MacOS X and Windows.
-* [Middlebury Computer Vision Pages](http://vision.middlebury.edu/) is a repository for computer vision evaluations and datasets. See the [Middlebury Stereo Vision Page](http://vision.middlebury.edu/stereo/) and [Middlebury Multi-View Stereo Vision Page](http://vision.middlebury.edu/mview/) for more relevant info for this project.
-* [Browse here for interesting papers](https://github.com/roshanpoudyal/research_papers_materialized).
+1. [3D reconstruction from multiple images wiki information and other external links here](https://en.wikipedia.org/wiki/3D_reconstruction_from_multiple_images).
+1. [The Multi-View Environment, MVE](https://www.gcc.tu-darmstadt.de/home/proj/mve/), is an implementation of a complete end-to-end pipeline for image-based geometry reconstruction. It features Structure-from-Motion, Multi-View Stereo and Surface Reconstruction. MVE is written in C++ and comes with a set of efficient, cross-platform and easy-to-use libraries. The code runs on Linux, MacOS X and Windows.
+1. [Middlebury Computer Vision Pages](http://vision.middlebury.edu/) is a repository for computer vision evaluations and datasets. See the [Middlebury Stereo Vision Page](http://vision.middlebury.edu/stereo/) and [Middlebury Multi-View Stereo Vision Page](http://vision.middlebury.edu/mview/) for more relevant info for this project.
+1. [Browse here for interesting papers](https://github.com/roshanpoudyal/research_papers_materialized).
 
 --------------
 
 ### Other tutorials and links :
-* Interesting tutorial on [Head Pose Estimation using OpenCV and Dlib
-](https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/).
-* [In this tutorial you will learn how to use the reconstruction api for sparse reconstruction.](https://docs.opencv.org/3.4/d4/d18/tutorial_sfm_scene_reconstruction.html)
-* [Variational Methods in Computer Vision](https://vision.in.tum.de/tutorials/eccv2010).
-* [3D Reconstruction from multiple views](https://vision.in.tum.de/research/image-based_3d_reconstruction/multiviewreconstruction).
-* [Live 3D Reconstruction on Mobile Phones - ETH Zurich](https://www.research-collection.ethz.ch/handle/20.500.11850/115965).
-* Beginners guide to [computer vision](https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720).
-* A [curated list of computer vision resources](https://github.com/jbhuang0604/awesome-computer-vision).
+1. Interesting tutorial on [Head Pose Estimation using OpenCV and Dlib](https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/).
+1. [In this tutorial you will learn how to use the reconstruction api for sparse reconstruction.](https://docs.opencv.org/3.4/d4/d18/tutorial_sfm_scene_reconstruction.html)
+1. [Variational Methods in Computer Vision](https://vision.in.tum.de/tutorials/eccv2010).
+1. [3D Reconstruction from multiple views](https://vision.in.tum.de/research/image-based_3d_reconstruction/multiviewreconstruction).
+1. [Live 3D Reconstruction on Mobile Phones - ETH Zurich](https://www.research-collection.ethz.ch/handle/20.500.11850/115965).
+1. Beginners guide to [computer vision](https://medium.com/readers-writers-digest/beginners-guide-to-computer-vision-23606224b720).
+1. A [curated list of computer vision resources](https://github.com/jbhuang0604/awesome-computer-vision).
 
 --------------
 
@@ -63,8 +64,8 @@
 --------------
 
 ### On Computer Graphics:
-* You sure will have to know much about computer Graphics too along with Computer Vision.
-* Also complete with TODO mentioned on [this OpenGL playground of yours](https://github.com/roshanpoudyal/3D_interactive_graphics_rendering_engine).
+1. You sure will have to know much about computer Graphics too along with Computer Vision.
+1. Also complete with TODO mentioned on [this OpenGL playground of yours](https://github.com/roshanpoudyal/3D_interactive_graphics_rendering_engine).
 
 --------------
 
@@ -81,20 +82,19 @@
 --------------
 
 ### Get started with:
-* [OpenCV Face detection C++](https://www.geeksforgeeks.org/opencv-c-program-face-detection/).
-* [Mastering opencv with practical projects](https://www.cs.ccu.edu.tw/~damon/photo/,OpenCV/,Mastering_OpenCV.pdf).
-* Get started with this opencv tutorial series on [Camera Calibration and 3D Reconstruction](https://docs.opencv.org/3.4.6/d9/db7/tutorial_py_table_of_contents_calib3d.html).
-* Now you can as well do this tutorial on [Head Pose Estimation using OpenCV and Dlib](https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/).
-* Start with this tutorial on [3D scene reconstruction from these set of OpenCV Tutorials called Structure From Motion](https://docs.opencv.org/3.4/de/d7c/tutorial_table_of_content_sfm.html). Make sure you do the tutorials in sequence and make sure the version of this OpenCV docs matches with the version of OpenCV version you are using.
-* This tutorial as well on [Real Time pose estimation of a textured object
-](https://docs.opencv.org/3.4.2/dc/d2c/tutorial_real_time_pose.html).
+1. [OpenCV Face detection C++](https://www.geeksforgeeks.org/opencv-c-program-face-detection/).
+1. [Mastering opencv with practical projects](https://www.cs.ccu.edu.tw/~damon/photo/,OpenCV/,Mastering_OpenCV.pdf).
+1. Get started with this opencv tutorial series on [Camera Calibration and 3D Reconstruction](https://docs.opencv.org/3.4.6/d9/db7/tutorial_py_table_of_contents_calib3d.html).
+1. Now you can as well do this tutorial on [Head Pose Estimation using OpenCV and Dlib](https://www.learnopencv.com/head-pose-estimation-using-opencv-and-dlib/).
+1. Start with this tutorial on [3D scene reconstruction from these set of OpenCV Tutorials called Structure From Motion](https://docs.opencv.org/3.4/de/d7c/tutorial_table_of_content_sfm.html). Make sure you do the tutorials in sequence and make sure the version of this OpenCV docs matches with the version of OpenCV version you are using.
+1. This tutorial as well on [Real Time pose estimation of a textured object](https://docs.opencv.org/3.4.2/dc/d2c/tutorial_real_time_pose.html).
 
 --------------
 
 ### Future direction:
-  * 3D pose estimation
-  * 3D motion reconstruction
-  * Mapping human motion to 3D models or characters
+1. 3D pose estimation
+1. 3D motion reconstruction
+1. Mapping human motion to 3D models or characters
 
 --------------
 
