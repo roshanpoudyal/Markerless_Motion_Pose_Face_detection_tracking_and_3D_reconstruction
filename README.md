@@ -53,6 +53,7 @@
 1. [Lecture videos on Computer Vision For Visual Effects](https://cvfxbook.com/video-lectures/) by Richard J. Radke.
     - Here is the [youtube playlist](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a) on the same.
     - Associated is [this book on Computer Vision for Visual Effects](https://cvfxbook.com/about/). The book describes classical computer vision algorithms used on a regular basis in Hollywood (such as blue-screen matting, structure from motion, optical flow, and feature tracking) and exciting recent developments that form the basis for future effects (such as natural image matting, multi-image compositing, image retargeting, and view synthesis).
+1. [Computer Vision](https://www.kaggle.com/learn/computer-vision) course from [Kaggle](https://www.kaggle.com/learn)
 
 ### Books and resources on Mathematics for Visual Computing (AI/ML/CV/CG):
 1. Book : [Github repository](https://github.com/mml-book/mml-book.github.io) for the book [**Mathematics for Machine Learning**](https://mml-book.github.io/book/mml-book.pdf).
@@ -82,6 +83,7 @@
 --------------
 
 ### Get started with:
+1. [Computer Vision](https://www.kaggle.com/learn/computer-vision) course from [Kaggle](https://www.kaggle.com/learn)
 1. [OpenCV Face detection C++](https://www.geeksforgeeks.org/opencv-c-program-face-detection/).
 1. [Mastering opencv with practical projects](https://www.cs.ccu.edu.tw/~damon/photo/,OpenCV/,Mastering_OpenCV.pdf).
 1. Get started with this opencv tutorial series on [Camera Calibration and 3D Reconstruction](https://docs.opencv.org/3.4.6/d9/db7/tutorial_py_table_of_contents_calib3d.html).
