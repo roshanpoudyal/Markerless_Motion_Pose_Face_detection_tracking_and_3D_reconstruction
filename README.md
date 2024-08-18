@@ -1,8 +1,6 @@
 ### Markerless Motion and/or Pose and/or Face detection and/or tracking and  it's 3D reconstruction (in real time)
 
 ### Inspiration:
- 1. I get very interested when camera captured images and videos (or live videos) turn into 3D virtual characters and their motion into its animation. I want to pursue this feeling.
- 1. [What is Visual Computing?](https://en.wikipedia.org/wiki/Visual_computing).
  1. [What is 3D reconstruction?](https://en.wikipedia.org/wiki/3D_reconstruction). This link gives a basic foundational idea on 3D reconstruction from images. **Using 3D reconstruction one can determine any object’s 3D profile, as well as knowing the 3D coordinate of any point on the profile.** from section **Motivation and applications** from this link is euphoric. Plus the methods for 3D reconstruction and in detail explanation of **Binocular stereo vision** and how it works is beautiful. There are other sources and external link.
  1. [What is Structure From Motion and its application in 3D reconstruction](https://en.wikipedia.org/wiki/Structure_from_motion).
  1. [Real time face reconstruction in 3D](https://cgl.ethz.ch/publications/papers/paperBic12.php).
