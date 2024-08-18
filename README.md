@@ -1,4 +1,3 @@
-### Project is developed as an interest in [Visual Computing](https://en.wikipedia.org/wiki/Visual_computing).
 ### Markerless Motion and/or Pose and/or Face detection and/or tracking and  it's 3D reconstruction (in real time)
 
 ### Inspiration:
