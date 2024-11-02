@@ -63,7 +63,7 @@
 
 ### On Computer Graphics:
 1. You sure will have to know much about computer Graphics too along with Computer Vision.
-1. Also complete with TODO mentioned on [this OpenGL playground of yours](https://github.com/roshanpoudyal/3D_interactive_graphics_rendering_engine).
+1. Also complete with TODO mentioned on [this OpenGL playground of](https://github.com/roshanpoudyal/3D_interactive_graphics_rendering_engine).
 
 --------------
 
